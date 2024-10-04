@@ -20,12 +20,12 @@
 
 **POWERBI DASHBOARD**
 
-![PowerBi Dashboard](asset/PowerBi_Dashboard.png)
+![PowerBi Dashboard](asset/PowerBi_Dashboard.png.png)
 
 **Tableau DASHBOARD 1**
 
-![Tableau Dashboard 1](asset/Tableau_Dashboard1.png)
+![Tableau Dashboard 1](asset/Tableau_Dashboard1.png.png)
 
 **Tableau DASHBOARD 2**
 
-![Tableau Dashboard 2](asset/Tableau_Dashboard2.png)
+![Tableau Dashboard 2](asset/Tableau_Dashboard2.png.png)
