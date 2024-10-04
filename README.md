@@ -16,7 +16,7 @@
 
 **EXCEL DASHBOARD**
 
-![Excel Dashboard](asset/Excel_Dashboard.png)
+![Excel Dashboard](asset/Excel_Dashboard.png.png)
 
 **POWERBI DASHBOARD**
 
