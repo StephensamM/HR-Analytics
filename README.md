@@ -1,18 +1,14 @@
 **PROJECT OVERVIEW**
 
-•	Developed Data-Driven Dashboards: Created comprehensive dashboards in Excel, Power BI and Tableau to track key healthcare metrics, including total discharges, patient days, and net patient revenue over a five-year period, aiding in operational efficiency and financial analysis.
+•	Created comprehensive HR analytics dashboards in Excel, Tableau, and Power BI, providing insights into key workforce metrics, such as attrition rates, work-life balance, and promotion trends.
 
-•	Data Cleaning and Transformation: Led the data cleaning and transformation process by splitting and merging complex datasets using Excel and Power Query to ensure accurate import into SQL databases for analysis.
+•	Designed and implemented SQL queries to extract, transform, and analyze HR data for KPI reporting, ensuring accurate and actionable insights.
 
-•	Revenue Trend Analysis: Conducted trend analysis on hospital revenues, identifying financial patterns and providing insights into operational improvements and growth opportunities.
+•	Conducted detailed data cleaning and transformation to ensure data quality and consistency across all visualizations.
 
-•	Identified Key Improvement Areas and Provided Recommendations for enhancing revenue streams and operational efficiencies, addressing challenges in data accuracy and reporting.
+•	Created clear and impactful data visualizations for each KPI, simplifying complex data and enabling better decision-making.
 
-•	SQL Query Development: Designed and executed MySQL queries for each KPI, retrieving and analyzing critical data, enhancing decision-making on healthcare operations and financial performance
-
-•	Overcame Data Integration Challenges: Successfully addressed challenges in importing and processing large datasets, including resolving errors during SQL data import by leveraging Power Query for smooth integration
-
-
+•	Designed and delivered a PowerPoint presentation to communicate findings and recommendations effectively.
 
 **EXCEL DASHBOARD**
 
